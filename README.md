@@ -56,7 +56,7 @@
 <br>
 
 * **[my ethernaut solutions and writeups in foundry](https://github.com/go-outside-labs/ethernaut-foundry-writeups-sol)**
-  * solutions for openzeppelin's ethernaut wargames. leveraging foundry, each level has a test set `(.t.sol)`, a script set `(.s.sol)`, and a write-up. some levels also have an exploit at `src/.sol`.
+  * a framework in foundry to solve hacking problems, exemplified with solutions for openzeppelin's ethernaut wargames. leveraging foundry, each level has a test set `(.t.sol)`, a script set `(.s.sol)`, and a write-up. some levels also have an exploit at `src/.sol`.
 
 
 
